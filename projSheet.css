@@ -17,6 +17,7 @@
         font-family: 'Cabin Sketch', cursive;
         color: beige;
         font-size: 2em;
+        text-align: justify; 
     }
     .continued
     {
@@ -25,7 +26,11 @@
         display: flex;
         justify-content: center;
         text-align: center;
-        font-size: 1em;
+        font-size: 2em;
+    }
+    iframe {
+        width: 100%;
+        height: 27em;
     }
 }
 @media screen and (min-width:1024.1px) and (max-width:1600.1px)
@@ -47,6 +52,7 @@
         font-family: 'Cabin Sketch', cursive;
         color: beige;
         font-size: 1.5em;
+        text-align: justify; 
     }
     .continued
     {
@@ -55,7 +61,11 @@
         display: flex;
         justify-content: center;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.6em;
+    }
+    iframe {
+        width: 100%;
+        height: 21em;
     }
 }
 
@@ -71,6 +81,7 @@
         font-family: 'Cabin Sketch', cursive;
         color: beige;
         font-size: 1.3em;
+        text-align: justify; 
     }
     .outerContainer{
         display:flex;
@@ -83,7 +94,11 @@
         display: flex;
         justify-content: center;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.2em;
+    }
+    iframe {
+        width: 100%;
+        height: 21em;
     }
 }
 
@@ -99,6 +114,7 @@
         font-family: 'Cabin Sketch', cursive;
         color: beige;
         font-size: 1.1em;
+        text-align: justify; 
     }
     .outerContainer{
         display:flex;
@@ -111,7 +127,11 @@
         display: flex;
         justify-content: center;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.1em;
+    }
+    iframe {
+        width: 100%;
+        height: 10em;
     }
 }
 
@@ -122,6 +142,7 @@
         font-family: 'Cabin Sketch', cursive;
         color: beige;
         font-size: 1em;
+        text-align: justify; 
     }
     .innerContainer
     {
@@ -142,6 +163,10 @@
         text-align: center;
         padding: 3em 0em 0em 0em;
         font-size: 1em;
+    }
+    iframe {
+        width: 100%;
+        height: 15em;
     }
 }
 
