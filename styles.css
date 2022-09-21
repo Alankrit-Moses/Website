@@ -170,7 +170,6 @@ body{
         display: flex;
         justify-content: center;
         background-color: black;
-        
     }
 
     .top{
@@ -180,7 +179,7 @@ body{
     border: none;
     color: beige;
     padding: 1em 1em;
-    font-size: 10px;
+    font-size: 12px;
     font-family: 'Cabin Sketch', cursive;
     transition: ease-in-out 0.15s;
     }
